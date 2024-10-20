@@ -1,0 +1,12 @@
+sam1	1
+sam2	1
+sam3	1
+sam4	1
+sam5	2
+sam6	2
+sam7	2
+sam8	2
+sam9	3
+sam10	3
+sam11	3
+sam12	3
